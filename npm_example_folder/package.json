@@ -1,0 +1,22 @@
+{
+  "name": "npm_example_folder",
+  "version": "1.0.0",
+  "description": "Example of a package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charles8ff/node-learn.git"
+  },
+  "author": "Carlos Fisac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charles8ff/node-learn/issues"
+  },
+  "homepage": "https://github.com/charles8ff/node-learn#readme",
+  "dependencies": {
+    "chance": "^1.1.7"
+  }
+}
