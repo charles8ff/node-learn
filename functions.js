@@ -29,7 +29,7 @@ let employee = {
     name: "Smith",
     age: 42,
     waves: function() {
-        console.log("Hi! My name is "+ this.name)
+        console.log("Hi! My name is(punch), my name is "+ this.name)
     }
 };
 employee.waves();
